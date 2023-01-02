@@ -106,4 +106,4 @@ I faced a lot of challenge while using web3.js and solidity, because of the same
 
 ## Support
 
-For support, dm on linkedin: https://www.linkedin.com/in/prayas-kumar
+For support, dm on linkedin: https://www.linkedin.com/in/kunalraj01
